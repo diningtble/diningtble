@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @diningtble
+- 🌱 I’m currently learning C#
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I think tanks are pretty neat
